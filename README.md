@@ -1,9 +1,16 @@
 
 <img src="/assets/main.png" alt="WELCOME">
+
 <p>
   <img src="/assets/blox-1.png" width=48% alt="EMINEM">
   &nbsp;&nbsp;&nbsp;
   <img src="/assets/blox-2.png" width=48% alt="HISTORY">
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://monov-web.vercel.app/">website</a>
+  </samp>
 </p>
 
 <p align="center">
