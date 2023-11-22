@@ -3,7 +3,6 @@
 <p>
   <img src="/assets/blox-1.png" width=48% alt="EMINEM">
   &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
   <img src="/assets/blox-2.png" width=48% alt="HISTORY">
 </p>
 
