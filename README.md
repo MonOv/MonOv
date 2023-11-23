@@ -4,7 +4,7 @@
 <p>
   <img src="/assets/blox-1.png" width=48% alt="EMINEM">
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/blox-2.png" width=48% alt="HISTORY">
+  <img src="/assets/blox-3.png" width=48% alt="HISTORY">
 </p>
 
 <p align="center">
