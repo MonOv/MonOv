@@ -1,5 +1,5 @@
 
-<img src="/assets/main.png" alt="WELCOME">
+<img src="/assets/main-3.png" alt="WELCOME">
 
 <p>
   <img src="/assets/blox-1.png" width=48% alt="EMINEM">
